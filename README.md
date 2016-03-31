@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Charisma
 
 ### Free, premium quality, responsive, multiple skin admin template.
@@ -51,3 +52,7 @@ Please visit [http://usman.it/free-responsive-admin-template/](http://usman.it/f
 
 ___
 &copy; 2012 - 2014 [Muhammad Usman](http://usman.it/). Licensed under the Apache License, Version 2.0.
+=======
+# charisma-master
+一个很好用的bootstrap后台管理系统模板
+>>>>>>> 8021ba86fd7e6cac563510bd647b519fae4b08e3
